@@ -16,6 +16,7 @@ public class ChaoLopSD18323 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Chào các bạn sinh viên lớp SD18323");
+        System.out.println("Chào các bạn sinh viên lớp SD18323");
     }
     
 }
