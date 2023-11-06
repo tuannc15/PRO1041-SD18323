@@ -20,6 +20,7 @@ public class ChaoLopSD18323 {
         System.out.println("Chào các bạn sinh viên lớp SD18323");
         System.out.println("Chào các bạn sinh viên lớp SD18323");
         System.out.println("Chào các bạn sinh viên lớp SD18323");
+        System.out.println("Chào các bạn sinh viên lớp SD18323");
     }
     
 }
